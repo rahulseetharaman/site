@@ -4,8 +4,6 @@ title: Publications
 permalink: /pubs/
 ---
 
-Publications:
-
 1. Intelligent Vision-based Malware Classification using Quantised ResNets
 Sashank Sridhar; Rahul Seetharaman; Sowmya Sanagavarapu
 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)
